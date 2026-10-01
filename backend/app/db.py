@@ -1,6 +1,6 @@
 import sqlite3
 
-DATABASE = "quiz.db"
+DATABASE = "mydatabase.db"
 
 def get_db():
     return sqlite3.connect(DATABASE)

@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/001-stop.svg",
+    "context_caption": "You are at a junction. A busy main road runs across in front of you. You must stop at the line first.",
+    "options": [
+      {
+        "text": "No entry",
+        "is_correct": false
+      },
+      {
+        "text": "Stop",
+        "is_correct": true
+      },
+      {
+        "text": "No U-turn",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The only octagonal sign. Stop fully at the line and give way to traffic on the major road.",
+    "sign_code": "RUS 027"
+  },
+  {
+    "id": 2,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/002-yield.svg",
+    "context_caption": "You are at a junction. A busy main road runs across in front of you. You must give way to its traffic.",
+    "options": [
+      {
+        "text": "No pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "No ridden or accompanied horses",
+        "is_correct": false
+      },
+      {
+        "text": "Yield (give way)",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Slow down and give way to traffic on the major road. Stop if you need to.",
+    "sign_code": "RUS 026"
+  },
+  {
+    "id": 3,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/003-no-entry.svg",
+    "context_caption": "You are at the end of a one-way street. Every car is coming towards you, so you must not drive in.",
+    "options": [
+      {
+        "text": "No entry",
+        "is_correct": true
+      },
+      {
+        "text": "No ridden or accompanied horses",
+        "is_correct": false
+      },
+      {
+        "text": "Yield (give way)",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Vehicles must not enter this road from this direction.",
+    "sign_code": "RUS 050"
+  },
+  {
+    "id": 4,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/004-no-straight-ahead.svg",
+    "context_caption": "Straight ahead the road is closed with bollards and turns into a walking area. You may not go straight on.",
+    "options": [
+      {
+        "text": "No right turn",
+        "is_correct": false
+      },
+      {
+        "text": "No straight ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Clearway: no stopping",
+        "is_correct": false
+      }
+    ],
+    "explanation": "You may not go straight on at this point. Turn off instead.",
+    "sign_code": "RUS 011"
+  },
+  {
+    "id": 5,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/005-no-left-turn.svg",
+    "context_caption": "A crossroads. The arrows painted on your lane show you can only go straight or turn right. You may not turn left.",
+    "options": [
+      {
+        "text": "No parking",
+        "is_correct": false
+      },
+      {
+        "text": "No pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "No left turn",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Left turns are prohibited. Red diagonal bar means prohibition.",
+    "sign_code": "RUS 013"
+  },
+  {
+    "id": 6,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/006-no-right-turn.svg",
+    "context_caption": "A crossroads. The arrows painted on your lane show you can only go straight or turn left. You may not turn right.",
+    "options": [
+      {
+        "text": "No right turn",
+        "is_correct": true
+      },
+      {
+        "text": "No overtaking",
+        "is_correct": false
+      },
+      {
+        "text": "No parking",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Right turns are prohibited. Red diagonal bar means prohibition.",
+    "sign_code": "RUS 012"
+  },
+  {
+    "id": 7,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/007-no-u-turn.svg",
+    "context_caption": "A road with a grass strip in the middle. There is a gap in the strip, but you must not use it to turn around.",
+    "options": [
+      {
+        "text": "No pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "No U-turn",
+        "is_correct": true
+      },
+      {
+        "text": "No cycles",
+        "is_correct": false
+      }
+    ],
+    "explanation": "You may not turn your vehicle around to go back the way you came.",
+    "sign_code": "RUS 017"
+  },
+  {
+    "id": 8,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/008-no-overtaking.svg",
+    "context_caption": "A slow lorry is ahead of you. The centre line is a solid double line. You must stay behind and not overtake.",
+    "options": [
+      {
+        "text": "No parking",
+        "is_correct": false
+      },
+      {
+        "text": "No cycles",
+        "is_correct": false
+      },
+      {
+        "text": "No overtaking",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Do not overtake other moving vehicles while this restriction applies.",
+    "sign_code": "RUS 014"
+  },
+  {
+    "id": 9,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/009-no-cycles.svg",
+    "context_caption": "A fast two-lane road. A cyclist waits at the roadside before the sign. Cycles are not allowed on this road.",
+    "options": [
+      {
+        "text": "No cycles",
+        "is_correct": true
+      },
+      {
+        "text": "No straight ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Stop",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Pedal cycles are not allowed past this sign.",
+    "sign_code": "RUS 055"
+  },
+  {
+    "id": 10,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/010-no-pedestrians.svg",
+    "context_caption": "A fast two-lane road. Two walkers stand at the roadside before the sign. Pedestrians are not allowed on this road.",
+    "options": [
+      {
+        "text": "No parking",
+        "is_correct": false
+      },
+      {
+        "text": "No pedestrians",
+        "is_correct": true
+      },
+      {
+        "text": "Yield (give way)",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Pedestrians are not allowed past this sign.",
+    "sign_code": "RUS 038"
+  },
+  {
+    "id": 11,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/011-no-parking.svg",
+    "context_caption": "A town street. Double yellow lines run along the empty kerb. You may not park here.",
+    "options": [
+      {
+        "text": "Yield (give way)",
+        "is_correct": false
+      },
+      {
+        "text": "No left turn",
+        "is_correct": false
+      },
+      {
+        "text": "No parking",
+        "is_correct": true
+      }
+    ],
+    "explanation": "You may not park here. Check any plate below for the times it applies.",
+    "sign_code": "RUS 019"
+  },
+  {
+    "id": 12,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/012-clearway.svg",
+    "context_caption": "A busy road with no room to stop. The verge is empty. Clearway means you may not stop here.",
+    "options": [
+      {
+        "text": "Clearway: no stopping",
+        "is_correct": true
+      },
+      {
+        "text": "Yield (give way)",
+        "is_correct": false
+      },
+      {
+        "text": "No overtaking",
+        "is_correct": false
+      }
+    ],
+    "explanation": "You may not stop here, even for a moment, except in an emergency.",
+    "sign_code": "RUS 010"
+  },
+  {
+    "id": 13,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/013-no-horses.svg",
+    "context_caption": "A fast two-lane road. A horse rider waits at the roadside before the sign. Horses are not allowed on this road.",
+    "options": [
+      {
+        "text": "Stop",
+        "is_correct": false
+      },
+      {
+        "text": "No ridden or accompanied horses",
+        "is_correct": true
+      },
+      {
+        "text": "No parking",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Horses, ridden or led, are not allowed past this sign.",
+    "sign_code": "RUS 056"
+  },
+  {
+    "id": 14,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/014-speed-20.svg",
+    "context_caption": "A residential street with speed ramps and children playing by the road. A very low limit applies.",
+    "options": [
+      {
+        "text": "Rural speed limit: 60 km/h on a local road",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 100 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 20 km/h",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The maximum legal speed here is 20 km/h. Slower may be safer.",
+    "sign_code": "RUS 065"
+  },
+  {
+    "id": 15,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/015-speed-30.svg",
+    "context_caption": "A town street with houses and people walking. The limit is low.",
+    "options": [
+      {
+        "text": "Maximum speed limit: 30 km/h",
+        "is_correct": true
+      },
+      {
+        "text": "Maximum speed limit: 100 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 40 km/h",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The maximum legal speed here is 30 km/h. Slower may be safer.",
+    "sign_code": "RUS 044"
+  },
+  {
+    "id": 16,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/016-speed-40.svg",
+    "context_caption": "A suburban road with houses and trees on both sides.",
+    "options": [
+      {
+        "text": "Maximum speed limit: 120 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 40 km/h",
+        "is_correct": true
+      },
+      {
+        "text": "Maximum speed limit: 50 km/h",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The maximum legal speed here is 40 km/h. Slower may be safer.",
+    "sign_code": "RUS 064"
+  },
+  {
+    "id": 17,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/017-speed-50.svg",
+    "context_caption": "The edge of a town. Houses and lamp posts line the road. This is the normal town limit.",
+    "options": [
+      {
+        "text": "Maximum speed limit: 100 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 40 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 50 km/h",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The maximum legal speed here is 50 km/h. Slower may be safer.",
+    "sign_code": "RUS 043"
+  },
+  {
+    "id": 18,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/018-speed-60.svg",
+    "context_caption": "A country road with hedges and no footpath.",
+    "options": [
+      {
+        "text": "Maximum speed limit: 60 km/h",
+        "is_correct": true
+      },
+      {
+        "text": "Maximum speed limit: 120 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 50 km/h",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The maximum legal speed here is 60 km/h. Slower may be safer.",
+    "sign_code": "RUS 042"
+  },
+  {
+    "id": 19,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/019-speed-80.svg",
+    "context_caption": "An open country road with wide views and yellow edge lines.",
+    "options": [
+      {
+        "text": "Maximum speed limit: 30 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 80 km/h",
+        "is_correct": true
+      },
+      {
+        "text": "Maximum speed limit: 100 km/h",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The maximum legal speed here is 80 km/h. Slower may be safer.",
+    "sign_code": "RUS 041"
+  },
+  {
+    "id": 20,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/020-speed-100.svg",
+    "context_caption": "A fast main road with two lanes each way and a barrier in the middle.",
+    "options": [
+      {
+        "text": "Maximum speed limit: 80 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 20 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 100 km/h",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The maximum legal speed here is 100 km/h. Slower may be safer.",
+    "sign_code": "RUS 040"
+  },
+  {
+    "id": 21,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/021-speed-120.svg",
+    "context_caption": "A motorway with two lanes, a hard shoulder and a barrier in the middle.",
+    "options": [
+      {
+        "text": "Maximum speed limit: 120 km/h",
+        "is_correct": true
+      },
+      {
+        "text": "Maximum speed limit: 60 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed limit: 40 km/h",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The maximum legal speed here is 120 km/h. Slower may be safer.",
+    "sign_code": "RUS 039"
+  },
+  {
+    "id": 22,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/022-rural-speed-limit.svg",
+    "context_caption": "A narrow country lane with grass growing in the middle and high hedges. The limit is 60 km/h, but it is not a safe speed.",
+    "options": [
+      {
+        "text": "Maximum speed limit: 50 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "Rural speed limit: 60 km/h on a local road",
+        "is_correct": true
+      },
+      {
+        "text": "Maximum speed limit: 30 km/h",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Used on narrow local roads with a plate reading SLOW. It means a 60 km/h limit, not a safe speed.",
+    "sign_code": "RUS 042A"
+  },
+  {
+    "id": 23,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/023-max-height.svg",
+    "context_caption": "A low railway bridge is ahead. The lorry in front is taller than the opening, so it must not go through.",
+    "options": [
+      {
+        "text": "Maximum gross vehicle weight",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum vehicle length",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum vehicle height",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Vehicles taller than the number shown must not pass.",
+    "sign_code": "RUS 016"
+  },
+  {
+    "id": 24,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/024-max-width.svg",
+    "context_caption": "The road squeezes between two stone walls. The lorry is wider than the gap, so it must not go through.",
+    "options": [
+      {
+        "text": "Maximum vehicle width",
+        "is_correct": true
+      },
+      {
+        "text": "Maximum vehicle height",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum vehicle length",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Vehicles wider than the number shown must not pass.",
+    "sign_code": "RUS 052"
+  },
+  {
+    "id": 25,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/025-max-length.svg",
+    "context_caption": "A very long lorry is parked at the roadside. A tight, narrow lane turns off to the left beyond it. Long vehicles may not use it.",
+    "options": [
+      {
+        "text": "Maximum vehicle width",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum vehicle length",
+        "is_correct": true
+      },
+      {
+        "text": "Maximum gross vehicle weight",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Vehicles longer than the number shown must not pass.",
+    "sign_code": "RUS 051"
+  },
+  {
+    "id": 26,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "regulatory",
+    "image": "/signs/026-max-weight.svg",
+    "context_caption": "An old stone bridge crosses a river. A heavy loaded lorry is about to cross. Only vehicles under the weight limit may use it.",
+    "options": [
+      {
+        "text": "Maximum vehicle width",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum vehicle height",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum gross vehicle weight",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Vehicles heavier than the number shown must not pass.",
+    "sign_code": "RUS 053"
+  },
+  {
+    "id": 27,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/027-keep-left.svg",
+    "context_caption": "A traffic island sits in the road. Keep to the left of it.",
+    "options": [
+      {
+        "text": "Keep left",
+        "is_correct": true
+      },
+      {
+        "text": "Turn right ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Mini roundabout",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Pass the obstacle on its left side.",
+    "sign_code": "RUS 001"
+  },
+  {
+    "id": 28,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/028-keep-right.svg",
+    "context_caption": "A traffic island sits at the left side of the road. Keep to the right of it.",
+    "options": [
+      {
+        "text": "Shared route for cyclists and pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "Keep right",
+        "is_correct": true
+      },
+      {
+        "text": "Pedal cycles only",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Pass the obstacle on its right side.",
+    "sign_code": "RUS 002"
+  },
+  {
+    "id": 29,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/029-pass-either-side.svg",
+    "context_caption": "A wide one-way road has an island in the middle. You may pass it on either side.",
+    "options": [
+      {
+        "text": "Keep right",
+        "is_correct": false
+      },
+      {
+        "text": "Turn right ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Pass either side",
+        "is_correct": true
+      }
+    ],
+    "explanation": "You may pass the obstacle on either side.",
+    "sign_code": "RUS 003"
+  },
+  {
+    "id": 30,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/030-straight-ahead-only.svg",
+    "context_caption": "A crossroads. The side roads are fenced off and the arrow on your lane points straight on. You must go straight on.",
+    "options": [
+      {
+        "text": "Straight ahead only",
+        "is_correct": true
+      },
+      {
+        "text": "Shared route for cyclists and pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "Mini roundabout",
+        "is_correct": false
+      }
+    ],
+    "explanation": "You must go straight on. No turning here.",
+    "sign_code": "RUS 004"
+  },
+  {
+    "id": 31,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/031-turn-right.svg",
+    "context_caption": "The road ends at a T-junction. The sign across the junction tells you that you must turn right.",
+    "options": [
+      {
+        "text": "Shared route for cyclists and pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "Turn right",
+        "is_correct": true
+      },
+      {
+        "text": "Pedal cycles only",
+        "is_correct": false
+      }
+    ],
+    "explanation": "You must turn right here.",
+    "sign_code": "RUS 005"
+  },
+  {
+    "id": 32,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/032-turn-left.svg",
+    "context_caption": "The road ends at a T-junction. The sign across the junction tells you that you must turn left.",
+    "options": [
+      {
+        "text": "Mini roundabout",
+        "is_correct": false
+      },
+      {
+        "text": "Turn right",
+        "is_correct": false
+      },
+      {
+        "text": "Turn left",
+        "is_correct": true
+      }
+    ],
+    "explanation": "You must turn left here.",
+    "sign_code": "RUS 006"
+  },
+  {
+    "id": 33,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/033-turn-left-ahead.svg",
+    "context_caption": "The road bends to the left ahead. The blue sign on the outside of the bend tells you to turn left.",
+    "options": [
+      {
+        "text": "Turn left ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Pedal cycles only",
+        "is_correct": false
+      },
+      {
+        "text": "Shared route for cyclists and pedestrians",
+        "is_correct": false
+      }
+    ],
+    "explanation": "You must turn left at the next junction.",
+    "sign_code": "RUS 007"
+  },
+  {
+    "id": 34,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/034-turn-right-ahead.svg",
+    "context_caption": "The road bends to the right ahead. The blue sign on the outside of the bend tells you to turn right.",
+    "options": [
+      {
+        "text": "Mini roundabout",
+        "is_correct": false
+      },
+      {
+        "text": "Turn right ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Pedestrian crossing",
+        "is_correct": false
+      }
+    ],
+    "explanation": "You must turn right at the next junction.",
+    "sign_code": "RUS 008"
+  },
+  {
+    "id": 35,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/035-pedal-cycles-only.svg",
+    "context_caption": "A red cycle track runs beside the road. A cyclist is on it. The track is for pedal cycles only.",
+    "options": [
+      {
+        "text": "Keep left",
+        "is_correct": false
+      },
+      {
+        "text": "Mini roundabout",
+        "is_correct": false
+      },
+      {
+        "text": "Pedal cycles only",
+        "is_correct": true
+      }
+    ],
+    "explanation": "This track is for pedal cycles only.",
+    "sign_code": "RUS 009"
+  },
+  {
+    "id": 36,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/036-shared-route.svg",
+    "context_caption": "A path runs beside the road. A walker and a cyclist share it. It is a shared route.",
+    "options": [
+      {
+        "text": "Shared route for cyclists and pedestrians",
+        "is_correct": true
+      },
+      {
+        "text": "Straight ahead only",
+        "is_correct": false
+      },
+      {
+        "text": "Pass either side",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Cyclists and pedestrians share this path.",
+    "sign_code": "RUS 058"
+  },
+  {
+    "id": 37,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/037-mini-roundabout.svg",
+    "context_caption": "A small painted roundabout in the middle of a street junction. Go around it clockwise.",
+    "options": [
+      {
+        "text": "Keep left",
+        "is_correct": false
+      },
+      {
+        "text": "Mini roundabout",
+        "is_correct": true
+      },
+      {
+        "text": "Pedal cycles only",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Go clockwise around the mini roundabout and yield to traffic on it.",
+    "sign_code": "RUS 049"
+  },
+  {
+    "id": 38,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "mandatory",
+    "image": "/signs/038-pedestrian-crossing.svg",
+    "context_caption": "A pedestrian crossing is just ahead. People are crossing and the car in front has stopped for them.",
+    "options": [
+      {
+        "text": "Mini roundabout",
+        "is_correct": false
+      },
+      {
+        "text": "Keep right",
+        "is_correct": false
+      },
+      {
+        "text": "Pedestrian crossing",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Pedestrians may cross here. Slow down and give way.",
+    "sign_code": "RUS 066"
+  },
+  {
+    "id": 39,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/039-crossroads.svg",
+    "context_caption": "A crossroads is ahead. Roads cross in front of you and traffic may come from either side.",
+    "options": [
+      {
+        "text": "Crossroads ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Crosswind",
+        "is_correct": false
+      },
+      {
+        "text": "Unprotected water",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Roads cross ahead. Watch for traffic.",
+    "sign_code": "W 001"
+  },
+  {
+    "id": 40,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/040-side-road-left.svg",
+    "context_caption": "A side road joins on the left ahead. A car is waiting to come out.",
+    "options": [
+      {
+        "text": "Slippery road",
+        "is_correct": false
+      },
+      {
+        "text": "Side road on the left",
+        "is_correct": true
+      },
+      {
+        "text": "Pedestrian crossing ahead",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A side road joins from the left.",
+    "sign_code": "W 002L"
+  },
+  {
+    "id": 41,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/041-side-road-right.svg",
+    "context_caption": "A side road joins on the right ahead. A car is waiting to come out.",
+    "options": [
+      {
+        "text": "Yield sign ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Pedestrian crossing ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Side road on the right",
+        "is_correct": true
+      }
+    ],
+    "explanation": "A side road joins from the right.",
+    "sign_code": "W 002R"
+  },
+  {
+    "id": 42,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/042-t-junction.svg",
+    "context_caption": "The road ends at a T-junction ahead. Expect to turn left or right.",
+    "options": [
+      {
+        "text": "T-junction ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Road narrows on the left",
+        "is_correct": false
+      },
+      {
+        "text": "Traffic signals ahead",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The road ends at a T-junction ahead.",
+    "sign_code": "W 003/004"
+  },
+  {
+    "id": 43,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/043-y-junction.svg",
+    "context_caption": "The road splits into two roads ahead, like the letter Y. Choose your way early.",
+    "options": [
+      {
+        "text": "Ford",
+        "is_correct": false
+      },
+      {
+        "text": "Y-junction ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Low-flying aircraft",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The road splits into two ahead.",
+    "sign_code": "W 005"
+  },
+  {
+    "id": 44,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/044-staggered-junction.svg",
+    "context_caption": "Two side roads join one after the other, one on the right and then one on the left.",
+    "options": [
+      {
+        "text": "Pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "Falling rocks",
+        "is_correct": false
+      },
+      {
+        "text": "Staggered junction",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Side roads join from both sides, one after the other.",
+    "sign_code": "W 007"
+  },
+  {
+    "id": 45,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/045-roundabout-ahead.svg",
+    "context_caption": "A roundabout is ahead with an island in the middle. Slow down and give way to traffic already on it.",
+    "options": [
+      {
+        "text": "Roundabout ahead",
+        "is_correct": true
+      },
+      {
+        "text": "School ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Opening bridge",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A roundabout is ahead. Slow down and yield.",
+    "sign_code": "W 043"
+  },
+  {
+    "id": 46,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/046-mini-roundabout-ahead.svg",
+    "context_caption": "A small painted roundabout is ahead in the middle of a street junction.",
+    "options": [
+      {
+        "text": "Accompanied horses",
+        "is_correct": false
+      },
+      {
+        "text": "Mini roundabout ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Steep descent",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A mini roundabout is ahead.",
+    "sign_code": "W 044"
+  },
+  {
+    "id": 47,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/047-traffic-signals.svg",
+    "context_caption": "Traffic lights are ahead at a crossroads. They are red, so be ready to stop.",
+    "options": [
+      {
+        "text": "Accompanied horses",
+        "is_correct": false
+      },
+      {
+        "text": "Humpback bridge",
+        "is_correct": false
+      },
+      {
+        "text": "Traffic signals ahead",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Traffic lights are ahead. Be ready to stop.",
+    "sign_code": "W 042"
+  },
+  {
+    "id": 48,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/048-stop-ahead.svg",
+    "context_caption": "You can see a stop sign far ahead at a junction. Prepare to stop.",
+    "options": [
+      {
+        "text": "Stop sign ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Queues likely",
+        "is_correct": false
+      },
+      {
+        "text": "Restricted headroom",
+        "is_correct": false
+      }
+    ],
+    "explanation": "There is a stop sign ahead. Prepare to stop.",
+    "sign_code": "W 040"
+  },
+  {
+    "id": 49,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/049-yield-ahead.svg",
+    "context_caption": "You can see a yield sign far ahead at a junction. Prepare to give way.",
+    "options": [
+      {
+        "text": "Accompanied horses",
+        "is_correct": false
+      },
+      {
+        "text": "Yield sign ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Tunnel ahead",
+        "is_correct": false
+      }
+    ],
+    "explanation": "There is a yield sign ahead. Prepare to give way.",
+    "sign_code": "W 041"
+  },
+  {
+    "id": 50,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/050-sharp-corner-left.svg",
+    "context_caption": "The road turns sharply to the left ahead. Slow down before the corner.",
+    "options": [
+      {
+        "text": "Cyclists",
+        "is_correct": false
+      },
+      {
+        "text": "Low-flying aircraft",
+        "is_correct": false
+      },
+      {
+        "text": "Sharp corner to the left",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The road turns sharply left. Slow down.",
+    "sign_code": "W 050L"
+  },
+  {
+    "id": 51,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/051-sharp-corner-right.svg",
+    "context_caption": "The road turns sharply to the right ahead. Slow down before the corner.",
+    "options": [
+      {
+        "text": "Sharp corner to the right",
+        "is_correct": true
+      },
+      {
+        "text": "Pedestrian crossing ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Humpback bridge",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The road turns sharply right. Slow down.",
+    "sign_code": "W 050R"
+  },
+  {
+    "id": 52,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/052-series-of-corners.svg",
+    "context_caption": "The road twists left and right ahead. Slow down and keep to your side.",
+    "options": [
+      {
+        "text": "Slippery road",
+        "is_correct": false
+      },
+      {
+        "text": "Series of sharp corners",
+        "is_correct": true
+      },
+      {
+        "text": "Sharp corner to the right",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Several sharp corners follow one another.",
+    "sign_code": "W 052L"
+  },
+  {
+    "id": 53,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/053-narrows-both.svg",
+    "context_caption": "The road gets narrower on both sides ahead, between two old stone walls.",
+    "options": [
+      {
+        "text": "Overhead electrical cables",
+        "is_correct": false
+      },
+      {
+        "text": "Restricted headroom",
+        "is_correct": false
+      },
+      {
+        "text": "Road narrows on both sides",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The road becomes narrower on both sides.",
+    "sign_code": "W 071"
+  },
+  {
+    "id": 54,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/054-narrows-left.svg",
+    "context_caption": "A wall sticks out on the left. The road gets narrower on your side.",
+    "options": [
+      {
+        "text": "Road narrows on the left",
+        "is_correct": true
+      },
+      {
+        "text": "Crossroads ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Side road on the right",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The road narrows on the left.",
+    "sign_code": "W 070L"
+  },
+  {
+    "id": 55,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/055-narrows-right.svg",
+    "context_caption": "A wall sticks out on the right. The road gets narrower on the right.",
+    "options": [
+      {
+        "text": "Stop sign ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Road narrows on the right",
+        "is_correct": true
+      },
+      {
+        "text": "Queues likely",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The road narrows on the right.",
+    "sign_code": "W 070R"
+  },
+  {
+    "id": 56,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/056-two-way-traffic.svg",
+    "context_caption": "The road with a central divider ends ahead. After this point traffic comes towards you on the same road.",
+    "options": [
+      {
+        "text": "Deer or wild animals",
+        "is_correct": false
+      },
+      {
+        "text": "Pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "Two-way traffic",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Traffic travels in both directions ahead.",
+    "sign_code": "W 080"
+  },
+  {
+    "id": 57,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/057-steep-descent.svg",
+    "context_caption": "The road drops away steeply ahead. You cannot see the road beyond the top. Use a low gear.",
+    "options": [
+      {
+        "text": "Steep descent",
+        "is_correct": true
+      },
+      {
+        "text": "Slippery for cyclists",
+        "is_correct": false
+      },
+      {
+        "text": "School ahead",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A steep downhill slope ahead. Use a low gear.",
+    "sign_code": "W 105"
+  },
+  {
+    "id": 58,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/058-steep-ascent.svg",
+    "context_caption": "The road climbs steeply ahead. A heavy lorry in front is slowing down.",
+    "options": [
+      {
+        "text": "Road hump",
+        "is_correct": false
+      },
+      {
+        "text": "Steep ascent",
+        "is_correct": true
+      },
+      {
+        "text": "Sharp corner to the right",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A steep uphill slope ahead.",
+    "sign_code": "W 106"
+  },
+  {
+    "id": 59,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/059-restricted-headroom.svg",
+    "context_caption": "A low bridge is ahead. The space under it is small, so tall vehicles may not fit.",
+    "options": [
+      {
+        "text": "Road narrows on the right",
+        "is_correct": false
+      },
+      {
+        "text": "Low-flying aircraft",
+        "is_correct": false
+      },
+      {
+        "text": "Restricted headroom",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Low bridge or overhead obstruction ahead.",
+    "sign_code": "W 110"
+  },
+  {
+    "id": 60,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/060-overhead-cables.svg",
+    "context_caption": "Power cables cross over the road ahead. Watch for them, especially in a tall vehicle.",
+    "options": [
+      {
+        "text": "Overhead electrical cables",
+        "is_correct": true
+      },
+      {
+        "text": "School ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Pedestrians",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Power cables cross the road ahead.",
+    "sign_code": "W 111"
+  },
+  {
+    "id": 61,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/061-level-crossing-lights.svg",
+    "context_caption": "A railway crosses the road. The red lights are flashing, the barrier is down and a train is passing. Stop.",
+    "options": [
+      {
+        "text": "Slippery for cyclists",
+        "is_correct": false
+      },
+      {
+        "text": "Level crossing with flashing red signals",
+        "is_correct": true
+      },
+      {
+        "text": "Tram crossing",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A railway crossing with flashing red lights. Stop when they flash.",
+    "sign_code": "W 120"
+  },
+  {
+    "id": 62,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/062-level-crossing.svg",
+    "context_caption": "A railway crosses the road. There are no flashing lights or barriers here, so look and listen before you cross.",
+    "options": [
+      {
+        "text": "Cyclists",
+        "is_correct": false
+      },
+      {
+        "text": "Risk of grounding",
+        "is_correct": false
+      },
+      {
+        "text": "Level crossing without flashing signals",
+        "is_correct": true
+      }
+    ],
+    "explanation": "A railway crossing with no flashing lights. Look and listen.",
+    "sign_code": "W 121"
+  },
+  {
+    "id": 63,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/063-road-hump.svg",
+    "context_caption": "A raised hump crosses the road ahead. Slow down or your car will bounce.",
+    "options": [
+      {
+        "text": "Road hump",
+        "is_correct": true
+      },
+      {
+        "text": "Sheep",
+        "is_correct": false
+      },
+      {
+        "text": "Low-flying aircraft",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A raised hump in the road. Slow down.",
+    "sign_code": "W 130"
+  },
+  {
+    "id": 64,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/064-road-depression.svg",
+    "context_caption": "The road dips down ahead and then rises again. Water may collect at the bottom.",
+    "options": [
+      {
+        "text": "Side road on the right",
+        "is_correct": false
+      },
+      {
+        "text": "Road depression (dip)",
+        "is_correct": true
+      },
+      {
+        "text": "Steep descent",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A dip in the road surface ahead.",
+    "sign_code": "W 131"
+  },
+  {
+    "id": 65,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/065-humpback-bridge.svg",
+    "context_caption": "A narrow humpback bridge is ahead. The road rises sharply and you cannot see what is on the other side.",
+    "options": [
+      {
+        "text": "Restricted headroom",
+        "is_correct": false
+      },
+      {
+        "text": "Pedestrian crossing ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Humpback bridge",
+        "is_correct": true
+      }
+    ],
+    "explanation": "A narrow bridge with a hump. You may not see what is beyond.",
+    "sign_code": "W 132"
+  },
+  {
+    "id": 66,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/066-uneven-road.svg",
+    "context_caption": "The road surface is broken, with holes and cracks. Slow down to protect your car.",
+    "options": [
+      {
+        "text": "Uneven road",
+        "is_correct": true
+      },
+      {
+        "text": "Roundabout ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Risk of grounding",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The road surface is bumpy. Slow down.",
+    "sign_code": "W 133"
+  },
+  {
+    "id": 67,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/067-slippery-road.svg",
+    "context_caption": "It is raining and the road is wet and shiny. The car in front is braking. Brake gently and keep your distance.",
+    "options": [
+      {
+        "text": "Low-flying aircraft",
+        "is_correct": false
+      },
+      {
+        "text": "Slippery road",
+        "is_correct": true
+      },
+      {
+        "text": "Crosswind",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The road may be slippery. Brake gently and keep your distance.",
+    "sign_code": "W 134"
+  },
+  {
+    "id": 68,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/068-risk-of-grounding.svg",
+    "context_caption": "A steep hump is ahead. A long, low lorry is stuck on top with its underside touching. Low vehicles can ground here.",
+    "options": [
+      {
+        "text": "Slippery for cyclists",
+        "is_correct": false
+      },
+      {
+        "text": "Road narrows on the right",
+        "is_correct": false
+      },
+      {
+        "text": "Risk of grounding",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Low vehicles may scrape on this hump.",
+    "sign_code": "W 123"
+  },
+  {
+    "id": 69,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/069-pedestrians.svg",
+    "context_caption": "There is no footpath. Two people are walking along the edge of the road ahead.",
+    "options": [
+      {
+        "text": "Pedestrians",
+        "is_correct": true
+      },
+      {
+        "text": "Slippery road",
+        "is_correct": false
+      },
+      {
+        "text": "Sharp corner to the left",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Pedestrians may be walking on or near the road.",
+    "sign_code": "W 140"
+  },
+  {
+    "id": 70,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/070-pedestrians-crossing.svg",
+    "context_caption": "A pedestrian crossing is ahead. Someone is about to cross, so be ready to stop.",
+    "options": [
+      {
+        "text": "Uneven road",
+        "is_correct": false
+      },
+      {
+        "text": "Pedestrian crossing ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Merging traffic from the left",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A pedestrian crossing is ahead.",
+    "sign_code": "W 140A"
+  },
+  {
+    "id": 71,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/071-school-ahead.svg",
+    "context_caption": "A school is beside the road. Children are by the kerb and a school bus is parked. Slow down.",
+    "options": [
+      {
+        "text": "Pedestrians",
+        "is_correct": false
+      },
+      {
+        "text": "Y-junction ahead",
+        "is_correct": false
+      },
+      {
+        "text": "School ahead",
+        "is_correct": true
+      }
+    ],
+    "explanation": "A school is near. Children may be on the road.",
+    "sign_code": "W 141"
+  },
+  {
+    "id": 72,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/072-cyclists.svg",
+    "context_caption": "Two cyclists are riding along the left edge of the road ahead. Give them space when you pass.",
+    "options": [
+      {
+        "text": "Cyclists",
+        "is_correct": true
+      },
+      {
+        "text": "Falling rocks",
+        "is_correct": false
+      },
+      {
+        "text": "Two-way traffic",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Cyclists may be on or crossing the road.",
+    "sign_code": "W 143"
+  },
+  {
+    "id": 73,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/073-slippery-for-cyclists.svg",
+    "context_caption": "It is raining and the cycle lane is wet. A cyclist rides ahead. The surface is slippery for cyclists.",
+    "options": [
+      {
+        "text": "Pedestrian crossing ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Slippery for cyclists",
+        "is_correct": true
+      },
+      {
+        "text": "Level crossing without flashing signals",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The surface is slippery for cyclists.",
+    "sign_code": "W 144"
+  },
+  {
+    "id": 74,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/074-pedestrian-cycle-crossing.svg",
+    "context_caption": "A crossing for walkers and cyclists is ahead. A person and a cyclist are about to cross.",
+    "options": [
+      {
+        "text": "Roundabout ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Sharp corner to the right",
+        "is_correct": false
+      },
+      {
+        "text": "Pedestrian and cycle crossing",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Pedestrians and cyclists cross ahead.",
+    "sign_code": "W 146"
+  },
+  {
+    "id": 75,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/075-accompanied-horses.svg",
+    "context_caption": "Two horse riders are on the road ahead, in single file at the left edge. Slow down and pass them wide.",
+    "options": [
+      {
+        "text": "Accompanied horses",
+        "is_correct": true
+      },
+      {
+        "text": "Tractors",
+        "is_correct": false
+      },
+      {
+        "text": "Humpback bridge",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Horses may be on the road. Slow down and pass wide.",
+    "sign_code": "W 150"
+  },
+  {
+    "id": 76,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/076-cattle.svg",
+    "context_caption": "Cows are crossing the road ahead from a field. Stop and let them pass.",
+    "options": [
+      {
+        "text": "Stop sign ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Cattle or farm animals",
+        "is_correct": true
+      },
+      {
+        "text": "Slippery road",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Farm animals may be on the road.",
+    "sign_code": "W 151"
+  },
+  {
+    "id": 77,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/077-sheep.svg",
+    "context_caption": "A flock of sheep is on the road ahead. Slow down and go through gently.",
+    "options": [
+      {
+        "text": "Crossroads ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Staggered junction",
+        "is_correct": false
+      },
+      {
+        "text": "Sheep",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Sheep may be on the road.",
+    "sign_code": "W 152"
+  },
+  {
+    "id": 78,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/078-deer.svg",
+    "context_caption": "It is dusk and deer are standing at the edge of the forest. They may jump onto the road.",
+    "options": [
+      {
+        "text": "Deer or wild animals",
+        "is_correct": true
+      },
+      {
+        "text": "Crossroads ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Slippery road",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Deer or wild animals may cross.",
+    "sign_code": "W 153"
+  },
+  {
+    "id": 79,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/079-unprotected-water.svg",
+    "context_caption": "The road runs along a quay. There is no fence, only a low kerb, and deep water is right beside the road.",
+    "options": [
+      {
+        "text": "Cattle or farm animals",
+        "is_correct": false
+      },
+      {
+        "text": "Unprotected water",
+        "is_correct": true
+      },
+      {
+        "text": "Slippery for cyclists",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Open water beside the road with no barrier.",
+    "sign_code": "W 160"
+  },
+  {
+    "id": 80,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/080-ford.svg",
+    "context_caption": "A stream flows across the road ahead. There is no bridge. A depth post stands at the side.",
+    "options": [
+      {
+        "text": "Staggered junction",
+        "is_correct": false
+      },
+      {
+        "text": "Deer or wild animals",
+        "is_correct": false
+      },
+      {
+        "text": "Ford",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The road runs through water ahead.",
+    "sign_code": "W 161"
+  },
+  {
+    "id": 81,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/081-tunnel.svg",
+    "context_caption": "A tunnel through a hill is ahead. Switch your headlights on before you enter.",
+    "options": [
+      {
+        "text": "Tunnel ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Tram crossing",
+        "is_correct": false
+      },
+      {
+        "text": "Sharp corner to the right",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A tunnel is ahead.",
+    "sign_code": "W 162"
+  },
+  {
+    "id": 82,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/082-queues-likely.svg",
+    "context_caption": "Traffic is stopped ahead. The cars in front have their brake lights on. A queue has formed.",
+    "options": [
+      {
+        "text": "Road narrows on the left",
+        "is_correct": false
+      },
+      {
+        "text": "Queues likely",
+        "is_correct": true
+      },
+      {
+        "text": "Mini roundabout ahead",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Traffic may be queuing ahead. Slow down early.",
+    "sign_code": "W 163"
+  },
+  {
+    "id": 83,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/083-falling-rocks.svg",
+    "context_caption": "A steep rocky cliff rises beside the road. Rocks have already fallen onto the road and more may fall.",
+    "options": [
+      {
+        "text": "Deer or wild animals",
+        "is_correct": false
+      },
+      {
+        "text": "Side road on the right",
+        "is_correct": false
+      },
+      {
+        "text": "Falling rocks",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Rocks may fall onto the road.",
+    "sign_code": "W 164"
+  },
+  {
+    "id": 84,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/084-low-flying-aircraft.svg",
+    "context_caption": "You are near an airport. A plane is flying very low over the road ahead. Stay calm and keep control.",
+    "options": [
+      {
+        "text": "Low-flying aircraft",
+        "is_correct": true
+      },
+      {
+        "text": "Merging traffic from the left",
+        "is_correct": false
+      },
+      {
+        "text": "Slippery for cyclists",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Aircraft fly low overhead. Do not be startled.",
+    "sign_code": "W 165"
+  },
+  {
+    "id": 85,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/085-crosswind.svg",
+    "context_caption": "An open road beside the sea. The wind sock is stretched out and the trees are bent by strong wind from the left. High vehicles may be pushed sideways.",
+    "options": [
+      {
+        "text": "Two-way traffic",
+        "is_correct": false
+      },
+      {
+        "text": "Crosswind",
+        "is_correct": true
+      },
+      {
+        "text": "Tunnel ahead",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Strong side winds are likely.",
+    "sign_code": "W 166"
+  },
+  {
+    "id": 86,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/086-opening-bridge.svg",
+    "context_caption": "A lifting bridge over a river is ahead. The bridge is raised for a boat, the barrier is down and the light is red.",
+    "options": [
+      {
+        "text": "Merging traffic from the left",
+        "is_correct": false
+      },
+      {
+        "text": "Unprotected water",
+        "is_correct": false
+      },
+      {
+        "text": "Opening bridge",
+        "is_correct": true
+      }
+    ],
+    "explanation": "A bridge that opens for boats ahead.",
+    "sign_code": "W 167"
+  },
+  {
+    "id": 87,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/087-tractors.svg",
+    "context_caption": "A slow tractor with a trailer is ahead of you on a country road. It is much slower than other traffic.",
+    "options": [
+      {
+        "text": "Tractors",
+        "is_correct": true
+      },
+      {
+        "text": "Level crossing with flashing red signals",
+        "is_correct": false
+      },
+      {
+        "text": "Stop sign ahead",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Slow farm tractors may be on this road.",
+    "sign_code": "W 168"
+  },
+  {
+    "id": 88,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/088-merging-left.svg",
+    "context_caption": "A slip road joins from the left. A car on it is about to merge into your lane.",
+    "options": [
+      {
+        "text": "Crossroads ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Merging traffic from the left",
+        "is_correct": true
+      },
+      {
+        "text": "Restricted headroom",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Traffic joins the road from the left.",
+    "sign_code": "W 030"
+  },
+  {
+    "id": 89,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/089-merging-right.svg",
+    "context_caption": "A slip road joins from the right on a one-way road. A car on it is about to merge into the lane beside you.",
+    "options": [
+      {
+        "text": "Tunnel ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Cattle or farm animals",
+        "is_correct": false
+      },
+      {
+        "text": "Merging traffic from the right",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Traffic joins the road from the right.",
+    "sign_code": "W 031"
+  },
+  {
+    "id": 90,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "warning",
+    "image": "/signs/090-tram-crossing.svg",
+    "context_caption": "A tram line crosses the road ahead and a tram is coming from the left. Trams cannot stop quickly.",
+    "options": [
+      {
+        "text": "Tram crossing",
+        "is_correct": true
+      },
+      {
+        "text": "Accompanied horses",
+        "is_correct": false
+      },
+      {
+        "text": "Merging traffic from the left",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Trams cross the road ahead. Watch for them.",
+    "sign_code": "W 124"
+  },
+  {
+    "id": 91,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "roadworks",
+    "image": "/signs/091-roadworks-ahead.svg",
+    "context_caption": "Roadworks are ahead. Cones narrow your lane, workers are at the side and a digger is working.",
+    "options": [
+      {
+        "text": "Flagman ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Roadworks ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Temporary traffic signals",
+        "is_correct": false
+      }
+    ],
+    "explanation": "There are roadworks ahead. Slow down.",
+    "sign_code": "WK 001"
+  },
+  {
+    "id": 92,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "roadworks",
+    "image": "/signs/092-temporary-signals.svg",
+    "context_caption": "Temporary traffic lights control a one-lane section. The light is red and a car is waiting. Roadworks fill your lane.",
+    "options": [
+      {
+        "text": "Loose chippings",
+        "is_correct": false
+      },
+      {
+        "text": "Roadworks ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Temporary traffic signals",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Temporary lights control traffic through works.",
+    "sign_code": "WK 060"
+  },
+  {
+    "id": 93,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "roadworks",
+    "image": "/signs/093-flagman-ahead.svg",
+    "context_caption": "A worker with a red flag stands in the road ahead. He is telling traffic to stop.",
+    "options": [
+      {
+        "text": "Flagman ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Temporary traffic signals",
+        "is_correct": false
+      },
+      {
+        "text": "Roadworks ahead",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A person will direct traffic ahead.",
+    "sign_code": "WK 061"
+  },
+  {
+    "id": 94,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "roadworks",
+    "image": "/signs/094-loose-chippings.svg",
+    "context_caption": "The road has just been resurfaced with loose stones. A lorry is spreading more. Slow down and keep your distance.",
+    "options": [
+      {
+        "text": "Flagman ahead",
+        "is_correct": false
+      },
+      {
+        "text": "Loose chippings",
+        "is_correct": true
+      },
+      {
+        "text": "Temporary traffic signals",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Loose stones on the surface. Slow down and keep your distance.",
+    "sign_code": "WK 073"
+  },
+  {
+    "id": 95,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "information",
+    "image": "/signs/095-start-of-motorway.svg",
+    "context_caption": "You have joined a motorway: two lanes, a hard shoulder and a barrier in the middle. Motorway rules start here.",
+    "options": [
+      {
+        "text": "End of motorway",
+        "is_correct": false
+      },
+      {
+        "text": "Hospital",
+        "is_correct": false
+      },
+      {
+        "text": "Start of motorway",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Motorway rules apply from here.",
+    "sign_code": "F 330"
+  },
+  {
+    "id": 96,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "information",
+    "image": "/signs/096-end-of-motorway.svg",
+    "context_caption": "The motorway is ending. The barrier stops and the road turns into an ordinary two-way road with traffic coming towards you.",
+    "options": [
+      {
+        "text": "End of motorway",
+        "is_correct": true
+      },
+      {
+        "text": "Parking",
+        "is_correct": false
+      },
+      {
+        "text": "Cul-de-sac (no through road)",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Motorway rules end here.",
+    "sign_code": "F 333"
+  },
+  {
+    "id": 97,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "information",
+    "image": "/signs/097-parking.svg",
+    "context_caption": "A car park with marked bays is beside the road. You can park here.",
+    "options": [
+      {
+        "text": "Hospital",
+        "is_correct": false
+      },
+      {
+        "text": "Parking",
+        "is_correct": true
+      },
+      {
+        "text": "Cul-de-sac (no through road)",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A parking area is available.",
+    "sign_code": "F 200"
+  },
+  {
+    "id": 98,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "information",
+    "image": "/signs/098-disabled-parking.svg",
+    "context_caption": "A car park is beside the road. The bay nearest the entrance is painted blue with a wheelchair symbol. It is for badge holders only.",
+    "options": [
+      {
+        "text": "Cul-de-sac (no through road)",
+        "is_correct": false
+      },
+      {
+        "text": "End of motorway",
+        "is_correct": false
+      },
+      {
+        "text": "Disabled persons' parking",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Parking for badge holders only.",
+    "sign_code": "F 204"
+  },
+  {
+    "id": 99,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "information",
+    "image": "/signs/099-hospital.svg",
+    "context_caption": "A hospital stands beside the road. An ambulance is driving ahead of you.",
+    "options": [
+      {
+        "text": "Hospital",
+        "is_correct": true
+      },
+      {
+        "text": "End of motorway",
+        "is_correct": false
+      },
+      {
+        "text": "Cul-de-sac (no through road)",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A hospital is nearby.",
+    "sign_code": "F 210"
+  },
+  {
+    "id": 100,
+    "question": "What does this traffic sign mean?",
+    "type": "image",
+    "category": "information",
+    "image": "/signs/100-cul-de-sac.svg",
+    "context_caption": "The road leads to a small turning circle and houses. It does not go anywhere else. It is a dead end.",
+    "options": [
+      {
+        "text": "Disabled persons' parking",
+        "is_correct": false
+      },
+      {
+        "text": "Cul-de-sac (no through road)",
+        "is_correct": true
+      },
+      {
+        "text": "Start of motorway",
+        "is_correct": false
+      }
+    ],
+    "explanation": "This road does not lead anywhere. It is a dead end.",
+    "sign_code": "F 350"
+  }
+]
